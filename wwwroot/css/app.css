@@ -1354,3 +1354,253 @@ a.gh-contact-card:hover {
   right: 1rem;
   top: 0.75rem;
 }
+
+/* Accessibility: Skip to content */
+.gh-skip-link {
+  position: fixed;
+  top: -100px;
+  left: 1rem;
+  z-index: 100;
+  padding: 0.65rem 1.15rem;
+  border-radius: var(--gh-radius-pill);
+  background-color: var(--gh-navy);
+  color: #ffffff;
+  font-size: 0.875rem;
+  font-weight: 700;
+  box-shadow: var(--gh-shadow-md);
+  transition: top 0.15s ease;
+}
+
+.gh-skip-link:focus {
+  top: 0.85rem;
+  color: #ffffff;
+}
+
+/* Micro-interactions */
+.gh-btn:active {
+  transform: scale(0.98);
+}
+
+.gh-hero-thumb {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.gh-hero-thumb:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--gh-shadow-md);
+}
+
+.gh-product-detail-btn span:last-child,
+.gh-category-link span:last-child {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.gh-product-card:hover .gh-product-detail-btn span:last-child,
+.gh-category-card:hover .gh-category-link span:last-child {
+  transform: translateX(3px);
+}
+
+/* Animations */
+@keyframes gh-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes gh-slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.gh-hero-animate {
+  animation: gh-fade-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.gh-hero-animate-delay {
+  animation: gh-fade-up 0.55s cubic-bezier(0.22, 1, 0.36, 1) 0.08s both;
+}
+
+.gh-mobile-nav {
+  animation: gh-slide-down 0.2s ease-out both;
+}
+
+/* Scroll reveal */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.45s cubic-bezier(0.22, 1, 0.36, 1), transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Brand Logo */
+.gh-brand-logo {
+  width: 2.625rem;
+  height: 2.625rem;
+  border-radius: 0.65rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-color: #ffffff;
+  border: 1px solid var(--gh-border);
+  display: grid;
+  place-items: center;
+  box-shadow: var(--gh-shadow-sm);
+}
+
+.gh-brand-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gh-footer .gh-brand-logo {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Floating Zalo & Hotline Buttons */
+.gh-floating-contact {
+  position: fixed;
+  right: 0.875rem;
+  bottom: 0.875rem;
+  z-index: 60;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.625rem;
+}
+
+@media (min-width: 768px) {
+  .gh-floating-contact {
+    right: 1.375rem;
+    bottom: 1.375rem;
+    gap: 0.75rem;
+  }
+}
+
+.gh-float-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem;
+  border-radius: var(--gh-radius-pill);
+  color: #ffffff;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  box-shadow: 0 8px 22px -4px rgba(15, 37, 55, 0.28);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+@media (min-width: 576px) {
+  .gh-float-btn {
+    padding: 0.35rem 1rem 0.35rem 0.35rem;
+  }
+}
+
+.gh-float-btn:hover {
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 26px -4px rgba(15, 37, 55, 0.36);
+}
+
+.gh-float-btn:active {
+  transform: scale(0.97);
+}
+
+.gh-float-zalo {
+  background-color: #0068ff;
+}
+
+.gh-float-zalo:hover {
+  background-color: #0057d9;
+}
+
+.gh-float-hotline {
+  background-color: var(--gh-accent);
+}
+
+.gh-float-hotline:hover {
+  background-color: var(--gh-accent-hover);
+}
+
+.gh-float-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.18);
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.gh-float-hotline .gh-float-icon::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  animation: gh-pulse-ring 2.2s cubic-bezier(0.24, 0, 0.38, 1) infinite;
+}
+
+.gh-zalo-mark {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.gh-float-label {
+  display: none;
+  white-space: nowrap;
+}
+
+@media (min-width: 576px) {
+  .gh-float-label {
+    display: inline;
+  }
+}
+
+@keyframes gh-pulse-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.75;
+  }
+  75%, 100% {
+    transform: scale(1.45);
+    opacity: 0;
+  }
+}

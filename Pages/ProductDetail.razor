@@ -1,7 +1,21 @@
 @page "/san-pham/{Id}"
+@using System.Text.Json
 @inject ProductCatalogService CatalogService
+@inject NavigationManager Navigation
 
-<PageTitle>@(_product is not null ? $"{_product.Name} – {BrandInfo.ShortName}" : $"Chi tiết sản phẩm – {BrandInfo.ShortName}")</PageTitle>
+<PageTitle>@PageTitleText</PageTitle>
+<HeadContent>
+    <meta name="description" content="@PageDescriptionText" />
+    <link rel="canonical" href="@CanonicalUrl" />
+    <meta property="og:title" content="@PageTitleText" />
+    <meta property="og:description" content="@PageDescriptionText" />
+    <meta property="og:url" content="@CanonicalUrl" />
+    @if (_product is not null)
+    {
+        <meta property="og:image" content="@AbsoluteImageUrl" />
+        <script type="application/ld+json">@((MarkupString)ProductStructuredDataJsonLd)</script>
+    }
+</HeadContent>
 
 <section class="gh-section gh-section-cream" style="padding-top: 2.5rem;">
     <div class="gh-container">
@@ -163,6 +177,61 @@
     private ProductItem? _product;
     private string _activeImageUrl = BrandInfo.PlaceholderImage;
     private IReadOnlyList<ProductItem> _relatedProducts = [];
+
+    private string PageTitleText =>
+        _product is not null
+            ? $"{_product.Name} – {BrandInfo.ShortName}"
+            : $"Chi tiết sản phẩm – {BrandInfo.ShortName}";
+
+    private string PageDescriptionText =>
+        _product is not null
+            ? $"{_product.Name} thuộc nhóm {_product.PrimaryCategoryName} tại {BrandInfo.LegalName}. Liên hệ tư vấn: {BrandInfo.HotlineDisplay}."
+            : $"Thông tin chi tiết sản phẩm bảo hộ lao động tại {BrandInfo.LegalName}.";
+
+    private string CanonicalUrl => $"{Navigation.BaseUri.TrimEnd('/')}/san-pham/{Uri.EscapeDataString(Id)}";
+
+    private string AbsoluteImageUrl => $"{Navigation.BaseUri.TrimEnd('/')}/{_activeImageUrl.TrimStart('/')}";
+
+    private string ProductStructuredDataJsonLd
+    {
+        get
+        {
+            if (_product is null) return string.Empty;
+
+            var baseUrl = Navigation.BaseUri.TrimEnd('/');
+            var breadcrumb = new Dictionary<string, object>
+            {
+                ["@type"] = "BreadcrumbList",
+                ["itemListElement"] = new object[]
+                {
+                    new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 1, ["name"] = "Trang chủ", ["item"] = $"{baseUrl}/" },
+                    new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 2, ["name"] = "Sản phẩm", ["item"] = $"{baseUrl}/san-pham" },
+                    new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 3, ["name"] = _product.PrimaryCategoryName, ["item"] = $"{baseUrl}/san-pham?category={Uri.EscapeDataString(_product.PrimaryCategoryId)}" },
+                    new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 4, ["name"] = _product.Name, ["item"] = CanonicalUrl }
+                }
+            };
+
+            var productLd = new Dictionary<string, object>
+            {
+                ["@type"] = "Product",
+                ["name"] = _product.Name,
+                ["category"] = _product.PrimaryCategoryName,
+                ["image"] = AbsoluteImageUrl,
+                ["url"] = CanonicalUrl,
+                ["brand"] = new Dictionary<string, object>
+                {
+                    ["@type"] = "Brand",
+                    ["name"] = BrandInfo.ShortName
+                }
+            };
+
+            return JsonSerializer.Serialize(new Dictionary<string, object>
+            {
+                ["@context"] = "https://schema.org",
+                ["@graph"] = new object[] { breadcrumb, productLd }
+            });
+        }
+    }
 
     protected override async Task OnParametersSetAsync()
     {

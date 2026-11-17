@@ -1,8 +1,17 @@
 @page "/san-pham"
+@using System.Text.Json
 @inject ProductCatalogService CatalogService
 @inject NavigationManager Navigation
 
-<PageTitle>Sản phẩm bảo hộ lao động – @BrandInfo.ShortName</PageTitle>
+<PageTitle>@PageTitleText</PageTitle>
+<HeadContent>
+    <meta name="description" content="@PageDescriptionText" />
+    <link rel="canonical" href="@CanonicalUrl" />
+    <meta property="og:title" content="@PageTitleText" />
+    <meta property="og:description" content="@PageDescriptionText" />
+    <meta property="og:url" content="@CanonicalUrl" />
+    <script type="application/ld+json">@((MarkupString)BreadcrumbJsonLd)</script>
+</HeadContent>
 
 <section class="gh-section gh-section-cream" style="padding-top: 2.5rem;">
     <div class="gh-container">
@@ -82,23 +91,25 @@
                     </div>
                 </div>
 
-                <div class="gh-chip-row mt-3 pt-2 border-top" style="border-color: var(--gh-border) !important;" aria-label="Chọn nhanh danh mục">
-                    <button type="button"
-                            class="gh-chip @(_selectedCategory == "all" ? "active" : "")"
-                            aria-pressed="@(_selectedCategory == "all")"
-                            @onclick='() => SelectCategory("all")'>
-                        Tất cả (@_allProducts.Count)
-                    </button>
-                    @foreach (var cat in _categories)
-                    {
-                        var isSelected = string.Equals(_selectedCategory, cat.Id, StringComparison.OrdinalIgnoreCase);
+                <div class="gh-chips-scroll-wrapper" style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; padding-bottom: 8px;">
+                    <div class="gh-chip-row mt-3 pt-2 border-top d-inline-flex flex-nowrap align-items-center" style="border-color: var(--gh-border) !important; gap: 8px;" aria-label="Chọn nhanh danh mục">
                         <button type="button"
-                                class="gh-chip @(isSelected ? "active" : "")"
-                                aria-pressed="@isSelected"
-                                @onclick="() => SelectCategory(cat.Id)">
-                            @cat.Name (@cat.ProductCount)
+                                class="gh-chip @(_selectedCategory == "all" ? "active" : "") flex-shrink-0"
+                                aria-pressed="@(_selectedCategory == "all")"
+                                @onclick='() => SelectCategory("all")'>
+                            Tất cả (@_allProducts.Count)
                         </button>
-                    }
+                        @foreach (var cat in _categories)
+                        {
+                            var isSelected = string.Equals(_selectedCategory, cat.Id, StringComparison.OrdinalIgnoreCase);
+                            <button type="button"
+                                    class="gh-chip @(isSelected ? "active" : "") flex-shrink-0"
+                                    aria-pressed="@isSelected"
+                                    @onclick="() => SelectCategory(cat.Id)">
+                                @cat.Name (@cat.ProductCount)
+                            </button>
+                        }
+                    </div>
                 </div>
             </div>
 
@@ -210,6 +221,57 @@
         string.Equals(_selectedCategory, "all", StringComparison.OrdinalIgnoreCase)
             ? null
             : _categories.FirstOrDefault(c => string.Equals(c.Id, _selectedCategory, StringComparison.OrdinalIgnoreCase))?.Name;
+
+    private string PageTitleText =>
+        string.IsNullOrWhiteSpace(SelectedCategoryName)
+            ? $"Sản phẩm bảo hộ lao động – {BrandInfo.ShortName}"
+            : $"{SelectedCategoryName} – {BrandInfo.ShortName}";
+
+    private string PageDescriptionText =>
+        string.IsNullOrWhiteSpace(SelectedCategoryName)
+            ? $"Danh mục {_allProducts.Count} sản phẩm bảo hộ lao động và đồng phục doanh nghiệp tại {BrandInfo.LegalName}. Hotline: {BrandInfo.HotlineDisplay}."
+            : $"Tham khảo các mẫu {SelectedCategoryName} tại {BrandInfo.LegalName}. Hotline tư vấn: {BrandInfo.HotlineDisplay}.";
+
+    private string CanonicalUrl
+    {
+        get
+        {
+            var baseUrl = Navigation.BaseUri.TrimEnd('/');
+            return string.IsNullOrWhiteSpace(SelectedCategoryName)
+                ? $"{baseUrl}/san-pham"
+                : $"{baseUrl}/san-pham?category={Uri.EscapeDataString(_selectedCategory)}";
+        }
+    }
+
+    private string BreadcrumbJsonLd
+    {
+        get
+        {
+            var baseUrl = Navigation.BaseUri.TrimEnd('/');
+            var items = new List<object>
+            {
+                new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 1, ["name"] = "Trang chủ", ["item"] = $"{baseUrl}/" },
+                new Dictionary<string, object> { ["@type"] = "ListItem", ["position"] = 2, ["name"] = "Sản phẩm", ["item"] = $"{baseUrl}/san-pham" }
+            };
+            if (!string.IsNullOrWhiteSpace(SelectedCategoryName))
+            {
+                items.Add(new Dictionary<string, object>
+                {
+                    ["@type"] = "ListItem",
+                    ["position"] = 3,
+                    ["name"] = SelectedCategoryName,
+                    ["item"] = CanonicalUrl
+                });
+            }
+
+            return JsonSerializer.Serialize(new Dictionary<string, object>
+            {
+                ["@context"] = "https://schema.org",
+                ["@type"] = "BreadcrumbList",
+                ["itemListElement"] = items
+            });
+        }
+    }
 
     private int TotalPages =>
         _filteredProducts.Count == 0 ? 1 : (int)Math.Ceiling(_filteredProducts.Count / (double)PageSize);

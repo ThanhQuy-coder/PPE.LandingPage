@@ -1,7 +1,16 @@
 ﻿@page "/"
 @inject ProductCatalogService CatalogService
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
 
 <PageTitle>Gia Hoàng – Bảo hộ lao động &amp; Đồng phục doanh nghiệp</PageTitle>
+<HeadContent>
+    <meta name="description" content="Công ty TNHH SX TM Bảo hộ lao động Gia Hoàng – Sản xuất và phân phối quần áo bảo hộ lao động, đồng phục doanh nghiệp, giày ủng, găng tay, mũ, kính và thiết bị an toàn lao động. Hotline: 090 120 023." />
+    <link rel="canonical" href="@CanonicalUrl" />
+    <meta property="og:title" content="Gia Hoàng – Bảo hộ lao động &amp; Đồng phục doanh nghiệp" />
+    <meta property="og:description" content="Sản xuất và phân phối quần áo bảo hộ lao động, đồng phục doanh nghiệp và thiết bị an toàn lao động. Hotline: 090 120 023." />
+    <meta property="og:url" content="@CanonicalUrl" />
+</HeadContent>
 
 <HeroSection ProductCount="@_totalProducts"
              CategoryCount="@_categories.Count"
@@ -68,9 +77,23 @@ else if (!string.IsNullOrWhiteSpace(_errorMessage))
     private string _aboutImageUrl = BrandInfo.PlaceholderImage;
     private string _aboutImageAlt = "Sản phẩm bảo hộ lao động Gia Hoàng";
 
+    private string CanonicalUrl => Navigation.BaseUri.TrimEnd('/') + "/";
+
     protected override async Task OnInitializedAsync()
     {
         await LoadCatalogAsync();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        try
+        {
+            await JS.InvokeVoidAsync("ghUi.observeReveals");
+        }
+        catch
+        {
+            // Ignore JS interop errors if script is unavailable.
+        }
     }
 
     private async Task LoadCatalogAsync()
