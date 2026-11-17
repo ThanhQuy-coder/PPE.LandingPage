@@ -7,11 +7,11 @@ Website giới thiệu doanh nghiệp và danh mục sản phẩm cho **Công ty
 ## Tổng quan tính năng
 
 - **Landing Page (`/`)**:
-  - **Hero Section**: Giới thiệu thương hiệu Gia Hoàng, CTA điều hướng danh mục và gọi nhanh hotline `090 120 023`, hiển thị trực quan sản phẩm thực tế và số liệu catalog từ JSON.
+  - **Hero Section**: Giới thiệu thương hiệu Gia Hoàng, CTA điều hướng danh mục và gọi nhanh hotline `090129023`, hiển thị trực quan sản phẩm thực tế và số liệu catalog từ JSON.
   - **Giới thiệu doanh nghiệp**: Trình bày lĩnh vực sản xuất và phân phối quần áo bảo hộ lao động, đồng phục doanh nghiệp và thiết bị bảo vệ cá nhân (PPE).
   - **Danh mục sản phẩm**: Tự động tổng hợp **18 nhóm sản phẩm** từ dữ liệu JSON, hỗ trợ mở rộng xem toàn bộ danh mục và điều hướng lọc nhanh.
   - **Sản phẩm tiêu biểu**: Hiển thị 8 sản phẩm đại diện đa dạng danh mục ngay trên trang chủ.
-  - **Liên hệ**: Thông tin doanh nghiệp, hotline `090 120 023` và biểu mẫu gửi nhu cầu tư vấn.
+  - **Liên hệ**: Thông tin doanh nghiệp, hotline `090129023` và biểu mẫu gửi nhu cầu tư vấn.
 - **Trang danh sách sản phẩm (`/san-pham`)**:
   - Tải toàn bộ **219 sản phẩm** từ `wwwroot/data/normalized_products.json` và cache trong phiên làm việc.
   - Tìm kiếm theo tên sản phẩm hoặc tên danh mục.
@@ -135,5 +135,5 @@ Thư mục tài nguyên tĩnh sau khi publish nằm tại `dist/wwwroot`.
 
 - Toàn bộ dữ liệu sản phẩm và thông số kỹ thuật được đọc từ `wwwroot/data/normalized_products.json`. Không hardcode sản phẩm, giá bán hoặc chứng nhận chưa có trong dữ liệu gốc.
 - Đường dẫn ảnh dạng `../images/...` trong JSON được tự động chuẩn hóa về `images/...` qua `ProductItem.NormalizeImagePath` để hoạt động ổn định từ root khi triển khai.
-- Thông tin thương hiệu và hotline tập trung tại `BrandInfo` trong `Models/ProductModels.cs` (`090 120 023`).
+- Thông tin thương hiệu và hotline tập trung tại `BrandInfo` trong `Models/ProductModels.cs` (`090129023`).
 - Màu sắc, khoảng cách, bo góc và bóng đổ được quản lý tập trung bằng CSS variables (`--gh-*`) trong `wwwroot/css/app.css`.

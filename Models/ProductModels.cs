@@ -106,9 +106,9 @@ public static class BrandInfo
     public const string UpperShortName = "GIA HOÀNG";
     public const string LegalName = "Công ty TNHH SX TM Bảo hộ lao động Gia Hoàng";
     public const string CatalogManufacturer = "Công ty TNHH SX TM BHLĐ Gia Hoàng";
-    public const string HotlineDisplay = "090 120 023";
-    public const string HotlineHref = "tel:090120023";
-    public const string ZaloHref = "https://zalo.me/090120023";
+    public const string HotlineDisplay = "090129023";
+    public const string HotlineHref = "tel:090129023";
+    public const string ZaloHref = "https://zalo.me/090129023";
     public const string LogoUrl = "images/icons/android-chrome-192x192.png";
     public const string PlaceholderImage = "images/placeholder-product.svg";
 }
