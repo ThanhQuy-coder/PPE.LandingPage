@@ -80,19 +80,13 @@ else if (!string.IsNullOrWhiteSpace(_errorMessage))
 
         try
         {
-            var catalog = await CatalogService.GetCatalogAsync();
-            _totalProducts = catalog.Products.Count;
-            _categories = catalog.Categories;
-            _featuredProducts = ProductCatalogService.SelectFeaturedProducts(catalog.Products, 8);
+            var summary = await CatalogService.GetHomeSummaryAsync();
+            _totalProducts = summary.TotalProducts;
+            _categories = summary.Categories;
+            _featuredProducts = summary.FeaturedProducts;
             _showcaseProducts = _featuredProducts.Take(4).ToList();
-
-            var introProduct = catalog.Products.FirstOrDefault(p => p.Id == "product-0003")
-                               ?? catalog.Products.FirstOrDefault();
-            if (introProduct is not null)
-            {
-                _aboutImageUrl = introProduct.PrimaryImageUrl;
-                _aboutImageAlt = introProduct.Name;
-            }
+            _aboutImageUrl = summary.IntroImageUrl;
+            _aboutImageAlt = summary.IntroImageAlt;
         }
         catch (Exception)
         {

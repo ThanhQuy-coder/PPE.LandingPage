@@ -18,8 +18,8 @@
     {
         try
         {
-            var catalog = await CatalogService.GetCatalogAsync();
-            _categoryCount = catalog.Categories.Count;
+            var summary = await CatalogService.GetHomeSummaryAsync();
+            _categoryCount = summary.Categories.Count;
         }
         catch
         {

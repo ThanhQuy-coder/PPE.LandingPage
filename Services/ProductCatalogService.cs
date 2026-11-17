@@ -8,10 +8,58 @@ public sealed class ProductCatalogService
     private readonly HttpClient _httpClient;
     private Task<CatalogSnapshot>? _loadTask;
     private CatalogSnapshot? _cachedSnapshot;
+    private Task<HomeCatalogSummary>? _homeLoadTask;
+    private HomeCatalogSummary? _cachedHomeSummary;
 
     public ProductCatalogService(HttpClient httpClient)
     {
         _httpClient = httpClient;
+    }
+
+    public async Task<HomeCatalogSummary> GetHomeSummaryAsync(bool forceReload = false)
+    {
+        if (!forceReload && _cachedSnapshot is not null)
+        {
+            var featured = SelectFeaturedProducts(_cachedSnapshot.Products, 8);
+            var intro = _cachedSnapshot.Products.FirstOrDefault(p => p.Id == "product-0003")
+                        ?? _cachedSnapshot.Products.FirstOrDefault();
+            return new HomeCatalogSummary(
+                _cachedSnapshot.Products.Count,
+                _cachedSnapshot.Categories,
+                featured,
+                intro?.PrimaryImageUrl ?? BrandInfo.PlaceholderImage,
+                intro?.Name ?? "Sản phẩm bảo hộ lao động Gia Hoàng");
+        }
+
+        if (!forceReload && _cachedHomeSummary is not null)
+        {
+            return _cachedHomeSummary;
+        }
+
+        if (forceReload || _homeLoadTask is null || _homeLoadTask.IsFaulted || _homeLoadTask.IsCanceled)
+        {
+            _homeLoadTask = LoadHomeSummaryInternalAsync();
+        }
+
+        return await _homeLoadTask;
+    }
+
+    private async Task<HomeCatalogSummary> LoadHomeSummaryInternalAsync()
+    {
+        var dto = await _httpClient.GetFromJsonAsync<HomeCatalogSummaryDto>("data/home_catalog.json");
+        if (dto is null)
+        {
+            return new HomeCatalogSummary(0, [], [], BrandInfo.PlaceholderImage, "Sản phẩm bảo hộ lao động Gia Hoàng");
+        }
+
+        _cachedHomeSummary = new HomeCatalogSummary(
+            dto.TotalProducts,
+            dto.Categories ?? [],
+            dto.FeaturedProducts ?? [],
+            string.IsNullOrWhiteSpace(dto.IntroImageUrl) ? BrandInfo.PlaceholderImage : dto.IntroImageUrl,
+            string.IsNullOrWhiteSpace(dto.IntroImageAlt) ? "Sản phẩm bảo hộ lao động Gia Hoàng" : dto.IntroImageAlt);
+
+        return _cachedHomeSummary;
     }
 
     public async Task<CatalogSnapshot> GetCatalogAsync(bool forceReload = false)
@@ -149,3 +197,19 @@ public sealed class ProductCatalogService
 public sealed record CatalogSnapshot(
     IReadOnlyList<ProductItem> Products,
     IReadOnlyList<ProductCategory> Categories);
+
+public sealed record HomeCatalogSummary(
+    int TotalProducts,
+    IReadOnlyList<ProductCategory> Categories,
+    IReadOnlyList<ProductItem> FeaturedProducts,
+    string IntroImageUrl,
+    string IntroImageAlt);
+
+internal sealed class HomeCatalogSummaryDto
+{
+    public int TotalProducts { get; set; }
+    public List<ProductCategory>? Categories { get; set; }
+    public List<ProductItem>? FeaturedProducts { get; set; }
+    public string? IntroImageUrl { get; set; }
+    public string? IntroImageAlt { get; set; }
+}
