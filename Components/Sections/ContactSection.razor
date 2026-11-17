@@ -1,0 +1,99 @@
+@using PPE.LandingPage.Models
+
+<section id="lien-he" class="gh-section gh-section-cream">
+    <div class="gh-container gh-contact-grid">
+        <div>
+            <p class="gh-kicker">LIÊN HỆ @BrandInfo.UpperShortName</p>
+            <h2 class="gh-section-title">Cần tư vấn trang bị bảo hộ cho đội ngũ?</h2>
+            <p class="gh-section-lead">
+                Liên hệ trực tiếp với @BrandInfo.LegalName qua hotline để được tư vấn mẫu mã, nhóm sản phẩm và phương án phù hợp với nhu cầu sử dụng.
+            </p>
+
+            <div class="d-flex flex-column gap-3 mt-4">
+                <a href="@BrandInfo.HotlineHref" class="gh-contact-card">
+                    <span class="gh-contact-icon" aria-hidden="true">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
+                        </svg>
+                    </span>
+                    <span class="flex-grow-1 min-w-0">
+                        <span class="d-block small fw-semibold" style="color: var(--gh-text-muted);">HOTLINE TƯ VẤN</span>
+                        <span class="d-block fs-5 fw-bold" style="color: var(--gh-navy);">@BrandInfo.HotlineDisplay</span>
+                    </span>
+                    <span aria-hidden="true" style="color: var(--gh-accent); font-weight: 700;">↗</span>
+                </a>
+
+                <div class="gh-contact-card">
+                    <span class="gh-contact-icon" style="background-color: var(--gh-navy);" aria-hidden="true">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M3 21h18" />
+                            <path d="M5 21V7l8-4v18" />
+                            <path d="M19 21V11l-6-4" />
+                        </svg>
+                    </span>
+                    <span class="min-w-0">
+                        <span class="d-block small fw-semibold" style="color: var(--gh-text-muted);">ĐƠN VỊ CUNG CẤP</span>
+                        <span class="d-block fw-bold" style="color: var(--gh-navy);">@BrandInfo.LegalName</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <form class="gh-form-card" @onsubmit="HandleSubmit" @onsubmit:preventDefault="true">
+            <h3 class="h5 fw-bold mb-1">Gửi nhu cầu tư vấn</h3>
+            <p class="small mb-4" style="color: var(--gh-text-muted);">
+                Điền thông tin bên dưới hoặc gọi trực tiếp @BrandInfo.HotlineDisplay.
+            </p>
+
+            <div class="row g-3">
+                <div class="col-sm-6">
+                    <label for="gh-contact-name" class="form-label small fw-bold">Họ và tên *</label>
+                    <input id="gh-contact-name" class="gh-input" type="text" required @bind="_name" placeholder="Nhập họ và tên" />
+                </div>
+                <div class="col-sm-6">
+                    <label for="gh-contact-phone" class="form-label small fw-bold">Số điện thoại *</label>
+                    <input id="gh-contact-phone" class="gh-input" type="tel" required @bind="_phone" placeholder="Nhập số điện thoại" />
+                </div>
+                <div class="col-12">
+                    <label for="gh-contact-group" class="form-label small fw-bold">Nhóm sản phẩm quan tâm</label>
+                    <select id="gh-contact-group" class="gh-input" @bind="_selectedGroup">
+                        <option value="">Chọn nhóm sản phẩm</option>
+                        <option value="Quần áo bảo hộ & đồng phục">Quần áo bảo hộ &amp; đồng phục</option>
+                        <option value="Giày ủng bảo hộ lao động">Giày ủng bảo hộ lao động</option>
+                        <option value="Găng tay, mũ, kính, mặt nạ">Găng tay, mũ, kính, mặt nạ</option>
+                        <option value="Thiết bị PCCC & an toàn khác">Thiết bị PCCC &amp; an toàn khác</option>
+                    </select>
+                </div>
+                <div class="col-12">
+                    <label for="gh-contact-note" class="form-label small fw-bold">Nội dung cần tư vấn</label>
+                    <textarea id="gh-contact-note" class="gh-input" rows="3" style="min-height: 6rem; resize: vertical;" @bind="_note" placeholder="Mô tả ngắn nhu cầu hoặc số lượng dự kiến"></textarea>
+                </div>
+            </div>
+
+            <button type="submit" class="gh-btn gh-btn-primary mt-4">
+                <span>Gửi yêu cầu tư vấn</span>
+                <span aria-hidden="true">→</span>
+            </button>
+
+            @if (!string.IsNullOrWhiteSpace(_feedbackMessage))
+            {
+                <div class="alert alert-warning mt-3 mb-0 small" role="status" aria-live="polite">
+                    @_feedbackMessage
+                </div>
+            }
+        </form>
+    </div>
+</section>
+
+@code {
+    private string _name = string.Empty;
+    private string _phone = string.Empty;
+    private string _selectedGroup = string.Empty;
+    private string _note = string.Empty;
+    private string? _feedbackMessage;
+
+    private void HandleSubmit()
+    {
+        _feedbackMessage = $"Cảm ơn {_name}. Website tĩnh hiện chưa kết nối máy chủ gửi biểu mẫu — vui lòng gọi trực tiếp Hotline {BrandInfo.HotlineDisplay} để {BrandInfo.ShortName} tiếp nhận yêu cầu ngay.";
+    }
+}

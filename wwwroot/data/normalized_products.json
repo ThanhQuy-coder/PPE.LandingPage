@@ -1,0 +1,4641 @@
+[
+  {
+    "id": "product-0001",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 1",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-1-1.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0001.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/quan-ao-bao-ho-cn-2_133292596618890434.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0002",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 2",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-2-2.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0002.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/quan-ao-bao-ho-cn-1_133292596292811638.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0003",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 3",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-3-3.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0003.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/quan-ao-bao-ho-cn-3_133292597197949592.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0004",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 4",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-4-4.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0004.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/quan-ao-bao-ho-cn-mau-4_133292603284367603.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0005",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 5",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-5-5.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0005.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-bao-ho-cn-mau-5_133292613620990335.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0006",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 6",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-6-6.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0006.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-bao-ho-cn-mau-6_133292613989229805.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0007",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 7",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-7-7.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0007.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-bao-ho-cn-mau-7_133293365373364772.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0008",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 8",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-8-8.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0008.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-bao-ho-cn-mau-8_133293365948501006.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0009",
+    "name": "Quần áo bảo hộ công nhân - Mẫu 9",
+    "url": "https://baohohopnhat.com/Quan-ao-bao-ho-cong-nhan---Mau-9-9.html",
+    "categoryIds": ["category-001"],
+    "categoryNames": ["Quần áo bảo hộ công nhân"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ công nhân Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0009.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-bao-ho-cn-mau-9_133293366233818967.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0010",
+    "name": "Đồng phục văn phòng - Mẫu 1",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-1-10.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0010.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-1_133293376046398507.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0011",
+    "name": "Đồng phục văn phòng - Mẫu 2",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-2-11.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0011.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-2_133293376584307787.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0012",
+    "name": "Đồng phục văn phòng - Mẫu 3",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-3-12.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0012.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-3_133293380851586370.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0013",
+    "name": "Đồng phục văn phòng - Mẫu 4",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-4-13.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0013.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-4_133293382489221755.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0014",
+    "name": "Đồng phục văn phòng - Mẫu 5",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-5-14.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0014.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-5_133293386054782244.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0015",
+    "name": "Đồng phục văn phòng - Mẫu 6",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-6-15.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0015.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-6_133293386677732166.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0016",
+    "name": "Đồng phục văn phòng - Mẫu 7",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-7-16.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0016.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-7_133293388778920770.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0017",
+    "name": "Đồng phục văn phòng - Mẫu 8",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-8-17.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0017.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-8_133293390030420653.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0018",
+    "name": "Đồng phục văn phòng - Mẫu 9",
+    "url": "https://baohohopnhat.com/Dong-phuc-van-phong---Mau-9-18.html",
+    "categoryIds": ["category-002"],
+    "categoryNames": ["Đồng phục văn phòng"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục văn phòng Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0018.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-van-phong-mau-9_133293390735429931.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0019",
+    "name": "Đồng phục học sinh - Mẫu 1",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-1-19.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0019.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hocsinh-mau-1_133293395425419596.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0020",
+    "name": "Đồng phục học sinh - Mẫu 2",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-2-20.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0020.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-2_133293397288190377.jpeg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0021",
+    "name": "Đồng phục học sinh - Mẫu 3",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-3-21.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0021.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-3_133293407851374298.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0022",
+    "name": "Đồng phục học sinh - Mẫu 4",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-4-22.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0022.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-4_133293411428409023.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0023",
+    "name": "Đồng phục học sinh - Mẫu 5",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-5-23.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0023.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-5_133293412330462971.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0024",
+    "name": "Đồng phục học sinh - Mẫu 6",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-6-24.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0024.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-6_133293415434717019.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0025",
+    "name": "Đồng phục học sinh - Mẫu 7",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-7-25.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0025.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-7_133293418839558787.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0026",
+    "name": "Đồng phục học sinh - Mẫu 8",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-8-26.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0026.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-8_133293419745314396.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0027",
+    "name": "Đồng phục học sinh - Mẫu 9",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-9-27.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0027.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-9_133293420036001761.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0028",
+    "name": "Đồng phục học sinh - Mẫu 10",
+    "url": "https://baohohopnhat.com/Dong-phuc-hoc-sinh---Mau-10-28.html",
+    "categoryIds": ["category-003"],
+    "categoryNames": ["Đồng phục học sinh"],
+    "attributes": {
+      "Sản phẩm": "Đồng phục học sinh Nam/Nữ",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0028.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dong-phuc-hoc-sinh-mau-10_133293420331555060.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0029",
+    "name": "Quần áo chống cháy - Mẫu 1",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-1-29.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0029.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-1_133293422473904732.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0030",
+    "name": "Quần áo chống cháy - Mẫu 2",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-2-30.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0030.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-2_133293422958406504.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0031",
+    "name": "Quần áo chống cháy - Mẫu 3",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-3-31.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0031.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-3_133293423968430371.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0032",
+    "name": "Quần áo chống cháy - Mẫu 4",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-4-32.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0032.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-4_133293424340154698.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0033",
+    "name": "Quần áo chống cháy - Mẫu 5",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-5-33.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0033.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-5_133293424737664167.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0034",
+    "name": "Quần áo chống cháy - Mẫu 6",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-6-34.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0034.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-6_133293425163186557.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0035",
+    "name": "Quần áo chống cháy - Mẫu 7",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-7-35.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0035.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-7_133293427282837836.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0036",
+    "name": "Quần áo chống cháy - Mẫu 8",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-8-36.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0036.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-8_133293427997641402.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0037",
+    "name": "Quần áo chống cháy - Mẫu 9",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-9-37.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0037.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-9_133293428642031862.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0038",
+    "name": "Quần áo chống cháy - Mẫu 10",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-chay---Mau-10-38.html",
+    "categoryIds": ["category-004"],
+    "categoryNames": ["Quần áo chống cháy"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống cháy",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Bạc, Aramid phủ nhôm,...có thể là từ những chất liệu chống bức xạ nhiệt khác,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0038.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-chay-mau-10_133293428943179918.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0039",
+    "name": "Quần áo chống hóa chất - Mẫu 1",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-hoa-chat---Mau-1-39.html",
+    "categoryIds": ["category-005"],
+    "categoryNames": ["Quần áo chống hóa chất"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống hóa chất",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải PU tráng cao su, vải không dệt, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0039.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/chong-hoa-chat-mau-1_133293443523055267.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0040",
+    "name": "Quần áo chống hóa chất - Mẫu 2",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-hoa-chat---Mau-2-40.html",
+    "categoryIds": ["category-005"],
+    "categoryNames": ["Quần áo chống hóa chất"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống hóa chất",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải PU tráng cao su, vải không dệt, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0040.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/chong-hoa-chat-mau-2_133293444929867539.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0041",
+    "name": "Quần áo chống hóa chất - Mẫu 3",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-hoa-chat---Mau-3-41.html",
+    "categoryIds": ["category-005"],
+    "categoryNames": ["Quần áo chống hóa chất"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống hóa chất",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải PU tráng cao su, vải không dệt, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0041.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/chong-hoa-chat-mau-3_133293445703163570.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0042",
+    "name": "Quần áo chống hóa chất - Mẫu 4",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-hoa-chat---Mau-4-42.html",
+    "categoryIds": ["category-005"],
+    "categoryNames": ["Quần áo chống hóa chất"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống hóa chất",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải PU tráng cao su, vải không dệt, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0042.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/chong-hoa-chat-mau-4_133293446022418933.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0043",
+    "name": "Quần áo chống hóa chất - Mẫu 5",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-hoa-chat---Mau-5-43.html",
+    "categoryIds": ["category-005"],
+    "categoryNames": ["Quần áo chống hóa chất"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống hóa chất",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải PU tráng cao su, vải không dệt, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0043.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/chong-hoa-chat-mau-5_133293446416288971.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0044",
+    "name": "Quần áo chống lạnh - Mẫu 1",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-lanh---Mau-1-44.html",
+    "categoryIds": ["category-006"],
+    "categoryNames": ["Quần áo chống lạnh"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống lạnh",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải dù, bông gòn, vật liệu có khả năng giữ nhiệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0044.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-lanh-mau-1_133293448073207754.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0045",
+    "name": "Quần áo chống lạnh - Mẫu 2",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-lanh---Mau-2-45.html",
+    "categoryIds": ["category-006"],
+    "categoryNames": ["Quần áo chống lạnh"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống lạnh",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải dù, bông gòn, vật liệu có khả năng giữ nhiệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0045.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-lanh-mau-2_133293448786891696.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0046",
+    "name": "Quần áo chống lạnh - Mẫu 3",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-lanh---Mau-3-46.html",
+    "categoryIds": ["category-006"],
+    "categoryNames": ["Quần áo chống lạnh"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống lạnh",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải dù, bông gòn, vật liệu có khả năng giữ nhiệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0046.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-lanh-mau-3_133293449344582612.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0047",
+    "name": "Quần áo chống lạnh - Mẫu 4",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-lanh---Mau-4-47.html",
+    "categoryIds": ["category-006"],
+    "categoryNames": ["Quần áo chống lạnh"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống lạnh",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải dù, bông gòn, vật liệu có khả năng giữ nhiệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0047.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-lanh-mau-4_133293449802066658.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0048",
+    "name": "Quần áo chống lạnh - Mẫu 5",
+    "url": "https://baohohopnhat.com/Quan-ao-chong-lanh---Mau-5-48.html",
+    "categoryIds": ["category-006"],
+    "categoryNames": ["Quần áo chống lạnh"],
+    "attributes": {
+      "Sản phẩm": "Quần áo bảo hộ Chống lạnh",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Vải dù, bông gòn, vật liệu có khả năng giữ nhiệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0048.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Quan-ao-chong-lanh-mau-5_133293450314399868.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0049",
+    "name": "Áo mưa - Mẫu 1",
+    "url": "https://baohohopnhat.com/Ao-mua---Mau-1-49.html",
+    "categoryIds": ["category-007"],
+    "categoryNames": ["Áo mưa"],
+    "attributes": {
+      "Sản phẩm": "Quần áo đi mưa",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nilon dù",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0049.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-mua---Mau-1_133293453401438922.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0050",
+    "name": "Áo mưa - Mẫu 2",
+    "url": "https://baohohopnhat.com/Ao-mua---Mau-2-50.html",
+    "categoryIds": ["category-007"],
+    "categoryNames": ["Áo mưa"],
+    "attributes": {
+      "Sản phẩm": "Quần áo đi mưa",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nilon dù",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0050.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-mua---Mau-2_133293453684172579.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0051",
+    "name": "Áo mưa - Mẫu 3",
+    "url": "https://baohohopnhat.com/Ao-mua---Mau-3-51.html",
+    "categoryIds": ["category-007"],
+    "categoryNames": ["Áo mưa"],
+    "attributes": {
+      "Sản phẩm": "Quần áo đi mưa",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nilon dù",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0051.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-mua---Mau-3_133293453894794384.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0052",
+    "name": "Áo mưa - Mẫu 4",
+    "url": "https://baohohopnhat.com/Ao-mua---Mau-4-52.html",
+    "categoryIds": ["category-007"],
+    "categoryNames": ["Áo mưa"],
+    "attributes": {
+      "Sản phẩm": "Quần áo đi mưa",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nilon dù",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0052.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-mua---Mau-4_133293454131446457.JPG"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0053",
+    "name": "Áo mưa - Mẫu 5",
+    "url": "https://baohohopnhat.com/Ao-mua---Mau-5-53.html",
+    "categoryIds": ["category-007"],
+    "categoryNames": ["Áo mưa"],
+    "attributes": {
+      "Sản phẩm": "Quần áo đi mưa",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nilon dù",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0053.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-mua---Mau-5_133293454351594847.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0054",
+    "name": "Đồ lội nước - Mẫu 1",
+    "url": "https://baohohopnhat.com/Do-loi-nuoc---Mau-1-54.html",
+    "categoryIds": ["category-008"],
+    "categoryNames": ["Đồ lội nước"],
+    "attributes": {
+      "Sản phẩm": "Đồ lội nước",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nhựa, cao su, Nilon,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0054.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Do-loi-nuoc---Mau-1_133293454887833476.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0055",
+    "name": "Đồ lội nước - Mẫu 2",
+    "url": "https://baohohopnhat.com/Do-loi-nuoc---Mau-2-55.html",
+    "categoryIds": ["category-008"],
+    "categoryNames": ["Đồ lội nước"],
+    "attributes": {
+      "Sản phẩm": "Đồ lội nước",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nhựa, cao su, Nilon,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0055.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Do-loi-nuoc---Mau-2_133293455138377564.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0056",
+    "name": "Đồ lội nước - Mẫu 3",
+    "url": "https://baohohopnhat.com/Do-loi-nuoc---Mau-3-56.html",
+    "categoryIds": ["category-008"],
+    "categoryNames": ["Đồ lội nước"],
+    "attributes": {
+      "Sản phẩm": "Đồ lội nước",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nhựa, cao su, Nilon,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0056.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Do-loi-nuoc---Mau-3_133293455661287786.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0057",
+    "name": "Đồ lội nước - Mẫu 4",
+    "url": "https://baohohopnhat.com/Do-loi-nuoc---Mau-4-57.html",
+    "categoryIds": ["category-008"],
+    "categoryNames": ["Đồ lội nước"],
+    "attributes": {
+      "Sản phẩm": "Đồ lội nước",
+      "Xuất xứ": "Việt Nam",
+      "Chất liệu": "Nhựa, cao su, Nilon,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0057.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Do-loi-nuoc---Mau-4_133293455899111564.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0058",
+    "name": "Áo phản quang - Mẫu 1",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-1-58.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0058.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-1_133293867756622511.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0059",
+    "name": "Áo phản quang - Mẫu 2",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-2-59.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0059.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-2_133293868123841664.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0060",
+    "name": "Áo phản quang - Mẫu 3",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-3-60.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0060.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-3_133293869494365627.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0061",
+    "name": "Áo phản quang - Mẫu 4",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-4-61.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0061.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-4_133293869934074098.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0062",
+    "name": "Áo phản quang - Mẫu 5",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-5-62.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0062.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-5_133293870336577676.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0063",
+    "name": "Áo phản quang - Mẫu 6",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-6-63.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0063.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-6_133293870622945632.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0064",
+    "name": "Áo phản quang - Mẫu 7",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-7-64.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0064.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-7_133293873390898619.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0065",
+    "name": "Áo phản quang - Mẫu 8",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-8-65.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0065.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-8_133293873914360717.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0066",
+    "name": "Áo phản quang - Mẫu 9",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-9-66.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0066.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-9_133293874813100228.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0067",
+    "name": "Áo phản quang - Mẫu 10",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-10-67.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0067.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-10_133293875300972139.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0068",
+    "name": "Áo phản quang - Mẫu 11",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-11-68.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0068.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-11_133293875913249434.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0069",
+    "name": "Áo phản quang - Mẫu 12",
+    "url": "https://baohohopnhat.com/Ao-phan-quang---Mau-12-69.html",
+    "categoryIds": ["category-009"],
+    "categoryNames": ["Áo phản quang"],
+    "attributes": {
+      "Sản phẩm": "Áo phản quang",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Chất liệu": "Vải kaki, vải lưới nhỏ, một số vật liệu đặc biệt khác theo yêu cầu,...",
+      "Nhà sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-001/product-0069.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ao-phan-quang---mau-12_133293876326378336.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0070",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 1",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-1-70.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0070.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk1_133293891092423990.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0071",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 2",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-2-71.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0071.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk2_133293891861082416.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0072",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 3",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-3-72.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0072.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk3_133293892136584505.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0073",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 4",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-4-73.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0073.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk4_133293892335573840.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0074",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 5",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-5-74.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0074.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk5_133293892556399834.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0075",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 6",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-6-75.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0075.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk6_133293892813443868.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0076",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 7",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-7-76.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0076.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk7_133293893075784942.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0077",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 8",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-8-77.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0077.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk8_133293893295645561.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0078",
+    "name": "Giày bảo hộ nhập khẩu - Mẫu 9",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-nhap-khau---Mau-9-78.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ nhập khẩu",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Nhập khẩu",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0078.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-nk9_133293893504853907.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0079",
+    "name": "Giày bảo hộ DH - Mẫu 1",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-1-79.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0079.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh1_133293894445646435.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0080",
+    "name": "Giày bảo hộ DH - Mẫu 2",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-2-80.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0080.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh2_133293894788546666.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0081",
+    "name": "Giày bảo hộ DH - Mẫu 3",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-3-81.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0081.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh3_133293895117506916.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0082",
+    "name": "Giày bảo hộ DH - Mẫu 4",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-4-82.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0082.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh4_133293895388913804.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0083",
+    "name": "Giày bảo hộ DH - Mẫu 5",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-5-83.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0083.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh5_133293895698293252.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0084",
+    "name": "Giày bảo hộ DH - Mẫu 6",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-6-84.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0084.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh6_133293896318906792.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0085",
+    "name": "Giày bảo hộ DH - Mẫu 7",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-7-85.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0085.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh7_133293896542013865.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0086",
+    "name": "Giày bảo hộ DH - Mẫu 8",
+    "url": "https://baohohopnhat.com/Giay-bao-ho-DH---Mau-8-86.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ DH",
+      "Tính năng": "Chống vật nhọn xuyên thủng, chống va đập, chống dầu, chống a-xít, chống trượt, chống trương nở trong dầu, có thoát hơi, chân không bị hầm.",
+      "Chất liệu da": "da bò mặt, gai hoặc trơn, chịu lửa, không nứt gãy khi gặp nước hoặc khi vận động liên tục.",
+      "Hotline": "090 120 023",
+      "Xuất xứ": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Kích cỡ": "Đang cập nhật",
+      "Tiêu chuẩn": "Đang cập nhật"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0086.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-bao-ho-dh8_133293896766249051.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0087",
+    "name": "Giày việt nam - Mẫu 1",
+    "url": "https://baohohopnhat.com/Giay-viet-nam---Mau-1-87.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ Việt Nam",
+      "Tiêu chuẩn": "TCVN 2606",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0087.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-viet-nam---mau-1_133293897268436603.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0088",
+    "name": "Giày việt nam - Mẫu 2",
+    "url": "https://baohohopnhat.com/Giay-viet-nam---Mau-2-88.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ Việt Nam",
+      "Tiêu chuẩn": "TCVN 2606",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0088.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-viet-nam---mau-2_133293897611093616.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0089",
+    "name": "Giày việt nam - Mẫu 3",
+    "url": "https://baohohopnhat.com/Giay-viet-nam---Mau-3-89.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ Việt Nam",
+      "Tiêu chuẩn": "TCVN 2606",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0089.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-viet-nam---mau-3_133293897880008948.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0090",
+    "name": "Giày việt nam - Mẫu 4",
+    "url": "https://baohohopnhat.com/Giay-viet-nam---Mau-4-90.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ Việt Nam",
+      "Tiêu chuẩn": "TCVN 2606",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0090.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-viet-nam---mau-4_133293898141756841.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0091",
+    "name": "Giày việt nam - Mẫu 5",
+    "url": "https://baohohopnhat.com/Giay-viet-nam---Mau-5-91.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ Việt Nam",
+      "Tiêu chuẩn": "TCVN 2606",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0091.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-viet-nam---mau-5_133293898485160738.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0092",
+    "name": "Giày nhựa - Mẫu 1",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-1-92.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0092.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-1_133293899061579224.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0093",
+    "name": "Giày nhựa - Mẫu 2",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-2-93.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0093.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-2_133293899338004830.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0094",
+    "name": "Giày nhựa - Mẫu 3",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-3-94.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0094.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-3_133293899610630301.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0095",
+    "name": "Giày nhựa - Mẫu 4",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-4-95.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0095.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-4_133293899850805521.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0096",
+    "name": "Giày nhựa - Mẫu 5",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-5-96.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0096.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-5_133293900148768760.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0097",
+    "name": "Giày nhựa - Mẫu 6",
+    "url": "https://baohohopnhat.com/Giay-nhua---Mau-6-97.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày bảo hộ bằng nhựa",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0097.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-nhua---mau-6_133293900468182307.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0098",
+    "name": "Giày vải - Mẫu 1",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-1-98.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0098.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-1_133293901263762278.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0099",
+    "name": "Giày vải - Mẫu 2",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-2-99.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0099.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-2_133293901550040229.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0100",
+    "name": "Giày vải - Mẫu 3",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-3-100.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0100.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-3_133293901823307719.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0101",
+    "name": "Giày vải - Mẫu 4",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-4-101.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0101.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-4_133293902091890565.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0102",
+    "name": "Giày vải - Mẫu 5",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-5-102.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0102.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-5_133293902342841646.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0103",
+    "name": "Giày vải - Mẫu 6",
+    "url": "https://baohohopnhat.com/Giay-vai---Mau-6-103.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Giày vải",
+      "Tiêu chuẩn": "Chuẩn chất lượng Việt",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0103.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Giay-vai---mau-6_133293902626996890.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0104",
+    "name": "Ủng nhập khẩu - Mẫu 1",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-1-104.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0104.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-1_133293903134849716.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0105",
+    "name": "Ủng nhập khẩu - Mẫu 2",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-2-105.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0105.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-2_133293903414289287.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0106",
+    "name": "Ủng nhập khẩu - Mẫu 3",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-3-106.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0106.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-3_133293903842556222.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0107",
+    "name": "Ủng nhập khẩu - Mẫu 4",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-4-107.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0107.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-4_133293904122461008.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0108",
+    "name": "Ủng nhập khẩu - Mẫu 5",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-5-108.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0108.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-5_133293904627508470.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0109",
+    "name": "Ủng nhập khẩu - Mẫu 6",
+    "url": "https://baohohopnhat.com/Ung-nhap-khau---Mau-6-109.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng Nhập Khẩu",
+      "Loại giày": "Ủng cao cổ.",
+      "Đế giày": "PU đặc chủng",
+      "Trang bị lót thép chống đinh": "bao phủ diện tích đế giày. Lót trong: dạng lông mềm mại.",
+      "Tính năng": "Đang cập nhật",
+      "Mũi sắt": "được gia công cơ khí chính xác, có viền chống cắt vào đế khi va đập mạnh.",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0109.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-nhap-khau---mau-6_133293904863267188.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0110",
+    "name": "Ủng việt nam - Mẫu 1",
+    "url": "https://baohohopnhat.com/Ung-viet-nam---Mau-1-110.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0110.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-viet-nam---mau-1_133293905316736112.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0111",
+    "name": "Ủng việt nam - Mẫu 2",
+    "url": "https://baohohopnhat.com/Ung-viet-nam---Mau-2-111.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0111.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-viet-nam---mau-2_133293905572463423.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0112",
+    "name": "Ủng việt nam - Mẫu 3",
+    "url": "https://baohohopnhat.com/Ung-viet-nam---Mau-3-112.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0112.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-viet-nam---mau-3_133293905859712090.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0113",
+    "name": "Ủng việt nam - Mẫu 4",
+    "url": "https://baohohopnhat.com/Ung-viet-nam---Mau-4-113.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0113.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-viet-nam---mau-4_133293906718243753.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0114",
+    "name": "Ủng việt nam - Mẫu 5",
+    "url": "https://baohohopnhat.com/-Ung-viet-nam---Mau-5-114.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Ủng bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0114.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Ung-viet-nam---mau-5_133293909060981148.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0115",
+    "name": "Dép nhựa - Mẫu 1",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-1-115.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0115.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-1_133293963684556299.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0116",
+    "name": "Dép nhựa - Mẫu 2",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-2-116.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Dép nhựa",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0116.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-2_133293963997155805.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0117",
+    "name": "Dép nhựa - Mẫu 3",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-3-117.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Dép nhựa",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0117.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-3_133293964292593994.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0118",
+    "name": "Dép nhựa - Mẫu 4",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-4-118.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Dép nhựa",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0118.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-4_133293964676416715.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0119",
+    "name": "Dép nhựa - Mẫu 5",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-5-119.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Dép nhựa",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0119.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-5_133293965044032876.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0120",
+    "name": "Dép nhựa - Mẫu 6",
+    "url": "https://baohohopnhat.com/Dep-nhua---Mau-6-120.html",
+    "categoryIds": ["category-010"],
+    "categoryNames": ["Giày ủng bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Dép nhựa",
+      "Tiêu chuẩn": "Chất lượng Việt Nam",
+      "Sản xuất tại": "Việt Nam",
+      "Kích cỡ": "Từ 38-43",
+      "Chất liệu da": "Đang cập nhật",
+      "Tính năng": "Đang cập nhật",
+      "Đơn vị cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Hotline": "090 120 023"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-002/product-0120.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Dep-nhua---Mau-6_133293965318132267.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0121",
+    "name": "Găng tay y tế - Mẫu 1",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-1-121.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0121.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-1_133293965946696553.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0122",
+    "name": "Găng tay y tế - Mẫu 2",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-2-122.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0122.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-2_133293966491543622.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0123",
+    "name": "Găng tay y tế - Mẫu 3",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-3-123.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0123.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-3_133293966974002004.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0124",
+    "name": "Găng tay y tế - Mẫu 4",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-4-124.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0124.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-4_133293967564362542.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0125",
+    "name": "Găng tay y tế - Mẫu 5",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-5-125.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0125.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-5_133293967916392076.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0126",
+    "name": "Găng tay y tế - Mẫu 6",
+    "url": "https://baohohopnhat.com/Gang-tay-y-te---Mau-6-126.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay y tế",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0126.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-y-te---mau-6_133293968178057272.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0127",
+    "name": "Găng tay chống cắt - Mẫu 1",
+    "url": "https://baohohopnhat.com/Gang-tay-chong-cat---Mau-1-127.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay chống cắt",
+      "Xuất xứ": "Hàng nhập khẩu",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0127.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-chong-cat-mau-1_133294025097068222.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0128",
+    "name": "Găng tay chống cắt - Mẫu 2",
+    "url": "https://baohohopnhat.com/Gang-tay-chong-cat---Mau-2-128.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay chống cắt",
+      "Xuất xứ": "Hàng nhập khẩu",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0128.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-chong-cat-mau-2_133294025941518696.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0129",
+    "name": "Găng tay chống cắt - Mẫu 3",
+    "url": "https://baohohopnhat.com/Gang-tay-chong-cat---Mau-3-129.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay chống cắt",
+      "Xuất xứ": "Hàng nhập khẩu",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0129.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-chong-cat-mau-3_133294026221023795.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0130",
+    "name": "Găng tay chống cắt - Mẫu 4",
+    "url": "https://baohohopnhat.com/Gang-tay-chong-cat---Mau-4-130.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay chống cắt",
+      "Xuất xứ": "Hàng nhập khẩu",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0130.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Gang-tay-chong-cat-mau-4_133294030998416754.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0131",
+    "name": "Gang tay len, sợi - Mẫu 1",
+    "url": "https://baohohopnhat.com/Gang-tay-len--soi---Mau-1-131.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay len, găng tay sợi",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0131.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-len-soi-mau-1_133294074061903491.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0132",
+    "name": "Gang tay len, sợi - Mẫu 2",
+    "url": "https://baohohopnhat.com/Gang-tay-len--soi---Mau-2-132.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay len, găng tay sợi",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0132.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-len-soi-mau-2_133294076478517596.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0133",
+    "name": "Gang tay len, sợi - Mẫu 3",
+    "url": "https://baohohopnhat.com/Gang-tay-len--soi---Mau-3-133.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay len, găng tay sợi",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0133.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-len-soi-mau-3_133294077300714897.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0134",
+    "name": "Gang tay len, sợi - Mẫu 4",
+    "url": "https://baohohopnhat.com/Gang-tay-len--soi---Mau-4-134.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay len, găng tay sợi",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0134.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-len-soi-mau-4_133294077576730515.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0135",
+    "name": "Gang tay len, sợi - Mẫu 5",
+    "url": "https://baohohopnhat.com/Gang-tay-len--soi---Mau-5-135.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay len, găng tay sợi",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0135.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-len-soi-mau-5_133294077814570396.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0136",
+    "name": "Gang tay vải - Mẫu 1",
+    "url": "https://baohohopnhat.com/Gang-tay-vai---Mau-1-136.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay vải",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0136.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-vai-mau-1_133294084517052299.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0137",
+    "name": "Gang tay vải - Mẫu 2",
+    "url": "https://baohohopnhat.com/Gang-tay-vai---Mau-2-137.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay vải",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0137.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-vai-mau-2_133294084880467675.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0138",
+    "name": "Gang tay vải - Mẫu 3",
+    "url": "https://baohohopnhat.com/Gang-tay-vai---Mau-3-138.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay vải",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0138.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-vai-mau-3_133294085201592606.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0139",
+    "name": "Gang tay vải - Mẫu 4",
+    "url": "https://baohohopnhat.com/Gang-tay-vai---Mau-4-139.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay vải",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0139.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-vai-mau-4_133294085467987953.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0140",
+    "name": "Gang tay vải - Mẫu 5",
+    "url": "https://baohohopnhat.com/Gang-tay-vai---Mau-5-140.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay vải",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0140.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-vai-mau-5_133294086105274236.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0141",
+    "name": "Gang tay cách điện - Mẫu 1",
+    "url": "https://baohohopnhat.com/Gang-tay-cach-dien---Mau-1-141.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay cách điện",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0141.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-cach-dien-mau-1_133294086842256690.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0142",
+    "name": "Gang tay cách điện - Mẫu 2",
+    "url": "https://baohohopnhat.com/Gang-tay-cach-dien---Mau-2-142.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay cách điện",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0142.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-cach-dien-mau-2_133294087147848062.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0143",
+    "name": "Gang tay cách điện - Mẫu 3",
+    "url": "https://baohohopnhat.com/Gang-tay-cach-dien---Mau-3-143.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay cách điện",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0143.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-cach-dien-mau-3_133294087493384993.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0144",
+    "name": "Gang tay cách điện - Mẫu 4",
+    "url": "https://baohohopnhat.com/Gang-tay-cach-dien---Mau-4-144.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay cách điện",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0144.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-cach-dien-mau-4_133294087836234607.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0145",
+    "name": "Gang tay cách điện - Mẫu 5",
+    "url": "https://baohohopnhat.com/Gang-tay-cach-dien---Mau-5-145.html",
+    "categoryIds": ["category-011"],
+    "categoryNames": ["Găng tay bảo hộ"],
+    "attributes": {
+      "Sản phẩm": "Găng tay cách điện",
+      "Xuất xứ": "Việt Nam",
+      "Xưởng cung cấp": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-003/product-0145.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/gang-tay-cach-dien-mau-5_133294088155527633.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0146",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 1",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-1-146.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0146.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-1_133294155638189368.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0147",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 2",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-2-147.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0147.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-2_133294155949703574.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0148",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 3",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-3-148.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0148.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-3_133294167781322733.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0149",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 4",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-4-149.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0149.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-4_133294168068785606.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0150",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 5",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-5-150.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0150.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-5_133294168538788617.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0151",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 6",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-6-151.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0151.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-6_133294168839417737.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0152",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 7",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-7-152.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0152.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-7_133294169182752846.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0153",
+    "name": "Mũ bảo hộ Việt Nam - Mẫu 8",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-Viet-Nam---Mau-8-153.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Việt Nam",
+      "Chất liệu": "Nhựa HDPE nhẹ, giảm sự mệt mỏi,",
+      "Xuất xứ": "Việt Nam, Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0153.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-viet-nam-mau-8_133294169567019293.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0154",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 1",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-1-154.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0154.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-1_133294170422682131.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0155",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 2",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-2-155.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0155.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-2_133294170729249856.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0156",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 3",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-3-156.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0156.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-3_133294170987437178.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0157",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 4",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-4-157.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0157.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-4_133294171267017451.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0158",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 5",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-5-158.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0158.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-5_133294171593611987.jpeg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0159",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 6",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-6-159.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0159.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-6_133294172602668704.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0160",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 7",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-7-160.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0160.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-7_133294172924391797.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0161",
+    "name": "Mũ bảo hộ nhập khẩu - Mẫu 8",
+    "url": "https://baohohopnhat.com/Mu-bao-ho-nhap-khau---Mau-8-161.html",
+    "categoryIds": ["category-012"],
+    "categoryNames": ["Mũ bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Mũ bảo hộ Nhập Khẩu",
+      "Chất liệu": "Nhựa.",
+      "Công dụng": "Chống va đập, chống đâm xuyên tốt, chống rơi...",
+      "Xuất xứ": "Nhập Khẩu",
+      "Xưởng sản xuất": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-004/product-0161.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Mu-bao-ho-nhap-khau-8_133294173216249412.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0162",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 1",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-1-162.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0162.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-1_133294174059096703.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0163",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 2",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-2-163.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0163.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-2_133294174353857024.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0164",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 3",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-3-164.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0164.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-3_133294174606079352.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0165",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 4",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-4-165.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0165.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-4_133294174907959947.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0166",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 5",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-5-166.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0166.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-5_133294175202040774.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0167",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 6",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-6-167.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0167.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-6_133294175524539296.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0168",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 7",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-7-168.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0168.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-7_133294177600183103.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0169",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 8",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-8-169.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0169.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-8_133294177865062500.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0170",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 9",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-9-170.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0170.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-9_133294178267888839.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0171",
+    "name": "Kính bảo hộ nhập khẩu - Mẫu 10",
+    "url": "https://baohohopnhat.com/Kinh-bao-ho-nhap-khau---Mau-10-171.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Kính bảo hộ nhập khẩu",
+      "Xuất xứ": "Nhập Khẩu",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0171.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Kinh-bao-ho-nhap-khau-10_133294178493609310.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0172",
+    "name": "Tấm che mặt - Mẫu 1",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-1-172.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0172.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-1_133294179240970947.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0173",
+    "name": "Tấm che mặt - Mẫu 2",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-2-173.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0173.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-2_133294179497346636.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0174",
+    "name": "Tấm che mặt - Mẫu 3",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-3-174.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0174.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-3_133294179732630437.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0175",
+    "name": "Tấm che mặt - Mẫu 4",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-4-175.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0175.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-4_133294180032505122.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0176",
+    "name": "Tấm che mặt - Mẫu 5",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-5-176.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0176.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-5_133294180293348359.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0177",
+    "name": "Tấm che mặt - Mẫu 6",
+    "url": "https://baohohopnhat.com/Tam-che-mat---Mau-6-177.html",
+    "categoryIds": ["category-013"],
+    "categoryNames": ["Kính bảo hộ lao động"],
+    "attributes": {
+      "Sản phẩm": "Tấm che mặt",
+      "Xuất xứ": "Việt Nam",
+      "Công dụng": "Chống bụi hạt, mảnh cứng, các loại côn trùng, bụi,.. bắn vào mắt.đặc biệt chống hóa chất lỏng tác động vào mắt",
+      "Cung cấp bởi": "Công ty TNHH SX TM BHLĐ Gia Hoàng",
+      "Liên hệ mua": "0967 497 709"
+    },
+    "description": [],
+    "imageUrls": ["../images/category-005/product-0177.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Tam-che-mat-mau-6_133294180514472954.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0178",
+    "name": "Nút tai chống ồn - Mẫu 1",
+    "url": "https://baohohopnhat.com/Nut-tai-chong-on---Mau-1-178.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0178.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Nut-tai-chong-on-mau-1_133294185549094528.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0179",
+    "name": "Nút tai chống ồn - Mẫu 2",
+    "url": "https://baohohopnhat.com/Nut-tai-chong-on---Mau-2-179.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0179.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Nut-tai-chong-on-mau-2_133294186054536259.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0180",
+    "name": "Nút tai chống ồn - Mẫu 3",
+    "url": "https://baohohopnhat.com/Nut-tai-chong-on---Mau-3-180.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0180.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Nut-tai-chong-on-mau-3_133294186315808717.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0181",
+    "name": "Nút tai chống ồn - Mẫu 4",
+    "url": "https://baohohopnhat.com/Nut-tai-chong-on---Mau-4-181.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0181.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/Nut-tai-chong-on-mau-4_133294186854169094.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0182",
+    "name": "Bịt tai chống ồn - Mẫu 1",
+    "url": "https://baohohopnhat.com/Bit-tai-chong-on---Mau-1-182.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0182.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/bit-tai-chong-on-mau-1_133294187473775556.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0183",
+    "name": "Bịt tai chống ồn - Mẫu 2",
+    "url": "https://baohohopnhat.com/Bit-tai-chong-on---Mau-2-183.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0183.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/bit-tai-chong-on-mau-2_133294187690520473.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0184",
+    "name": "Bịt tai chống ồn - Mẫu 3",
+    "url": "https://baohohopnhat.com/Bit-tai-chong-on---Mau-3-184.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0184.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/bit-tai-chong-on-mau-3_133294187931198076.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0185",
+    "name": "Bịt tai chống ồn - Mẫu 4",
+    "url": "https://baohohopnhat.com/Bit-tai-chong-on---Mau-4-185.html",
+    "categoryIds": ["category-014"],
+    "categoryNames": ["Bảo vệ tai"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-006/product-0185.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/bit-tai-chong-on-mau-4_133294188225046515.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0186",
+    "name": "Khẩu trang vải - Mẫu 1",
+    "url": "https://baohohopnhat.com/Khau-trang-vai---Mau-1-186.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0186.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-vai-mau-1_133294193760330374.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0187",
+    "name": "Khẩu trang vải - Mẫu 2",
+    "url": "https://baohohopnhat.com/Khau-trang-vai---Mau-2-187.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0187.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-vai-mau-2_133294194085738032.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0188",
+    "name": "Khẩu trang vải - Mẫu 3",
+    "url": "https://baohohopnhat.com/Khau-trang-vai---Mau-3-188.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0188.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-vai-mau-3_133294194344902207.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0189",
+    "name": "Khẩu trang vải - Mẫu 4",
+    "url": "https://baohohopnhat.com/Khau-trang-vai---Mau-4-189.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0189.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-vai-mau-4_133294194639053605.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0190",
+    "name": "Khẩu trang y tế - Mẫu 1",
+    "url": "https://baohohopnhat.com/Khau-trang-y-te---Mau-1-190.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0190.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-y-te-mau-1_133294195294618357.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0191",
+    "name": "Khẩu trang y tế - Mẫu 2",
+    "url": "https://baohohopnhat.com/Khau-trang-y-te---Mau-2-191.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0191.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-y-te-mau-2_133294195533149180.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0192",
+    "name": "Khẩu trang y tế - Mẫu 3",
+    "url": "https://baohohopnhat.com/Khau-trang-y-te---Mau-3-192.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0192.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-y-te-mau-3_133294195795679547.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0193",
+    "name": "Khẩu trang than hoạt tính - Mẫu 1",
+    "url": "https://baohohopnhat.com/Khau-trang-than-hoat-tinh---Mau-1-193.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0193.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-than-hoat-tinh-1_133294196430975567.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0194",
+    "name": "Khẩu trang than hoạt tính - Mẫu 2",
+    "url": "https://baohohopnhat.com/Khau-trang-than-hoat-tinh---Mau-2-194.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0194.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-than-hoat-tinh-2_133294196668934354.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0195",
+    "name": "Khẩu trang than hoạt tính - Mẫu 3",
+    "url": "https://baohohopnhat.com/Khau-trang-than-hoat-tinh---Mau-3-195.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0195.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-than-hoat-tinh-3_133294196967697117.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0196",
+    "name": "Khẩu trang 3M mẫu 1",
+    "url": "https://baohohopnhat.com/Khau-trang-3M-mau-1-196.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0196.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-3m-mau-1_133294197962862301.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0197",
+    "name": "Khẩu trang 3M mẫu 2",
+    "url": "https://baohohopnhat.com/Khau-trang-3M-mau-2-197.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0197.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-3m-mau2_133294198091306208.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0198",
+    "name": "Khẩu trang 3M mẫu 3",
+    "url": "https://baohohopnhat.com/Khau-trang-3M-mau-3-198.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0198.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-3m-mau-3_133294198422566382.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0199",
+    "name": "Khẩu trang 3M mẫu 4",
+    "url": "https://baohohopnhat.com/Khau-trang-3M-mau-4-199.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0199.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/khau-trang-3m-mau-4_133294198691602632.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0200",
+    "name": "Mặt nạ phòng độc - Mẫu 1",
+    "url": "https://baohohopnhat.com/Mat-na-phong-doc---Mau-1-200.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0200.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/mat-na-phong-doc-mau-1_133294199187546924.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0201",
+    "name": "Mặt nạ phòng độc - Mẫu 2",
+    "url": "https://baohohopnhat.com/Mat-na-phong-doc---Mau-2-201.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0201.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/mat-na-phong-doc-mau-2_133294199519034234.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0202",
+    "name": "Mặt nạ phòng độc - Mẫu 3",
+    "url": "https://baohohopnhat.com/Mat-na-phong-doc---Mau-3-202.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0202.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/mat-na-phong-doc-mau-3_133294199795836348.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0203",
+    "name": "Mặt nạ phòng độc - Mẫu 4",
+    "url": "https://baohohopnhat.com/Mat-na-phong-doc---Mau-4-203.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0203.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/mat-na-phong-doc-mau-4_133294200092093634.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0204",
+    "name": "Mặt nạ phòng độc - Mẫu 5",
+    "url": "https://baohohopnhat.com/Mat-na-phong-doc---Mau-5-204.html",
+    "categoryIds": ["category-015"],
+    "categoryNames": ["Mặt nạ phòng độc"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-007/product-0204.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/mat-na-phong-doc-mau-5_133294200338635994.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0205",
+    "name": "Dây đai an toàn nhập khẩu - Mẫu 1",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-nhap-khau---Mau-1-205.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0205.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-nhap-khau-1_133294217903507737.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0206",
+    "name": "Dây đai an toàn nhập khẩu - Mẫu 2",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-nhap-khau---Mau-2-206.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0206.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-nhap-khau-2_133294218216321809.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0207",
+    "name": "Dây đai an toàn nhập khẩu - Mẫu 3",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-nhap-khau---Mau-3-207.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0207.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-nhap-khau-3_133294218478876716.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0208",
+    "name": "Dây đai an toàn nhập khẩu - Mẫu 4",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-nhap-khau---Mau-4-208.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0208.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-nhap-khau-4_133294218727443720.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0209",
+    "name": "Dây đai an toàn nhập khẩu - Mẫu 5",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-nhap-khau---Mau-5-209.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0209.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-nhap-khau-5_133294219062421537.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0210",
+    "name": "Dây đai an toàn việt nam - Mẫu 1",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-viet-nam---Mau-1-210.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0210.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-viet-nam-1_133294219586892699.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0211",
+    "name": "Dây đai an toàn việt nam - Mẫu 2",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-viet-nam---Mau-2-211.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0211.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-viet-nam-2_133294219850849919.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0212",
+    "name": "Dây đai an toàn việt nam - Mẫu 3",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-viet-nam---Mau-3-212.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0212.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-viet-nam-3_133294220172735541.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0213",
+    "name": "Dây đai an toàn việt nam - Mẫu 4",
+    "url": "https://baohohopnhat.com/Day-dai-an-toan-viet-nam---Mau-4-213.html",
+    "categoryIds": ["category-016"],
+    "categoryNames": ["Dây an toàn"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-008/product-0213.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/day-dai-an-toan-viet-nam-4_133294220545647425.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0214",
+    "name": "Bình chữa cháy - Mẫu 1",
+    "url": "https://baohohopnhat.com/Binh-chua-chay---Mau-1-214.html",
+    "categoryIds": ["category-017"],
+    "categoryNames": ["Phòng cháy chữa cháy"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-009/product-0214.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/binh-chua-chay-mau-1_133294221203416249.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0215",
+    "name": "Bình chữa cháy - Mẫu 2",
+    "url": "https://baohohopnhat.com/Binh-chua-chay---Mau-2-215.html",
+    "categoryIds": ["category-017"],
+    "categoryNames": ["Phòng cháy chữa cháy"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-009/product-0215.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/binh-chua-chay-mau-2_133294221482426897.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0216",
+    "name": "Bình chữa cháy - Mẫu 3",
+    "url": "https://baohohopnhat.com/Binh-chua-chay---Mau-3-216.html",
+    "categoryIds": ["category-017"],
+    "categoryNames": ["Phòng cháy chữa cháy"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-009/product-0216.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/binh-chua-chay-mau-3_133294221769440924.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0217",
+    "name": "Bình chữa cháy - Mẫu 4",
+    "url": "https://baohohopnhat.com/Binh-chua-chay---Mau-4-217.html",
+    "categoryIds": ["category-017"],
+    "categoryNames": ["Phòng cháy chữa cháy"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-009/product-0217.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/binh-chua-chay-mau-4_133294222063980861.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0218",
+    "name": "Bình chữa cháy - Mẫu 5",
+    "url": "https://baohohopnhat.com/Binh-chua-chay---Mau-5-218.html",
+    "categoryIds": ["category-017"],
+    "categoryNames": ["Phòng cháy chữa cháy"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-009/product-0218.png"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/binh-chua-chay-mau-5_133294222533988281.png"
+    ],
+    "imageDownloadStatus": "success"
+  },
+  {
+    "id": "product-0219",
+    "name": "Túi đựng cơ khí",
+    "url": "https://baohohopnhat.com/tui-dung-co-khi-1062.html",
+    "categoryIds": ["category-018"],
+    "categoryNames": ["Tui dung cu"],
+    "attributes": {},
+    "description": [],
+    "imageUrls": ["../images/category-011/product-0219.jpg"],
+    "scrapeStatus": "success",
+    "sourceImageUrls": [
+      "https://baohohopnhat.com/PhotoImage/tui-dung-co-khi_133298090344221169.jpg"
+    ],
+    "imageDownloadStatus": "success"
+  }
+]

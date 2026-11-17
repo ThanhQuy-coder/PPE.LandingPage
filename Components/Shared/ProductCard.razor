@@ -1,0 +1,59 @@
+@using PPE.LandingPage.Models
+
+<article class="gh-product-card">
+    <a href="san-pham/@Product.Id" class="gh-product-media" aria-label="Xem chi tiết @Product.Name">
+        <img src="@Product.PrimaryImageUrl"
+             alt="@Product.Name"
+             width="400"
+             height="380"
+             loading="lazy"
+             decoding="async"
+             onerror="this.onerror=null;this.src='@BrandInfo.PlaceholderImage';" />
+        <span class="gh-product-cat-badge">@Product.PrimaryCategoryName</span>
+    </a>
+
+    <div class="gh-product-body">
+        <h3 class="gh-product-title">
+            <a href="san-pham/@Product.Id">@Product.Name</a>
+        </h3>
+
+        <p class="gh-product-meta" title="@GetQuickMeta()">
+            @GetQuickMeta()
+        </p>
+
+        <div class="gh-product-actions">
+            <a href="san-pham/@Product.Id" class="gh-product-detail-btn">
+                <span>Xem chi tiết</span>
+                <span aria-hidden="true">→</span>
+            </a>
+        </div>
+    </div>
+</article>
+
+@code {
+    [Parameter, EditorRequired]
+    public ProductItem Product { get; set; } = default!;
+
+    private string GetQuickMeta()
+    {
+        var origin = Product.GetConfirmedAttribute("Xuất xứ");
+        var material = Product.GetConfirmedAttribute("Chất liệu") ?? Product.GetConfirmedAttribute("Chất liệu da");
+
+        if (!string.IsNullOrWhiteSpace(origin) && !string.IsNullOrWhiteSpace(material))
+        {
+            return $"Xuất xứ: {origin} · {material}";
+        }
+
+        if (!string.IsNullOrWhiteSpace(origin))
+        {
+            return $"Xuất xứ: {origin}";
+        }
+
+        if (!string.IsNullOrWhiteSpace(material))
+        {
+            return $"Chất liệu: {material}";
+        }
+
+        return $"Liên hệ tư vấn: {BrandInfo.HotlineDisplay}";
+    }
+}

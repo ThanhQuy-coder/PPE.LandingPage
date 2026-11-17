@@ -1,0 +1,97 @@
+@using PPE.LandingPage.Models
+
+<section class="gh-hero">
+    <div class="gh-hero-ring-1" aria-hidden="true"></div>
+    <div class="gh-hero-ring-2" aria-hidden="true"></div>
+
+    <div class="gh-container gh-hero-grid">
+        <div>
+            <p class="gh-hero-pill">
+                <span class="gh-dot" aria-hidden="true"></span>
+                <span>@BrandInfo.LegalName</span>
+            </p>
+
+            <h1 class="gh-hero-title">
+                An toàn lao động.<br />
+                <span>Trang bị chuẩn mực</span> cho đội ngũ.
+            </h1>
+
+            <p class="gh-hero-desc">
+                Sản xuất và phân phối quần áo bảo hộ lao động, đồng phục doanh nghiệp cùng các thiết bị bảo vệ cá nhân — giúp doanh nghiệp lựa chọn đúng giải pháp cho từng môi trường làm việc.
+            </p>
+
+            <div class="gh-hero-actions">
+                <a href="san-pham" class="gh-btn gh-btn-primary">
+                    <span>Khám phá sản phẩm</span>
+                    <span aria-hidden="true">↗</span>
+                </a>
+                <a href="@BrandInfo.HotlineHref" class="gh-btn gh-btn-outline-light">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
+                    </svg>
+                    <span>Gọi @BrandInfo.HotlineDisplay</span>
+                </a>
+            </div>
+
+            <div class="gh-hero-trust">
+                <span class="gh-hero-trust-item">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f69364" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <polyline points="20 6 9 17 4 12" />
+                    </svg>
+                    <span>Sản xuất &amp; phân phối trực tiếp</span>
+                </span>
+                <span class="gh-hero-trust-item">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f69364" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <polyline points="20 6 9 17 4 12" />
+                    </svg>
+                    <span>Đa dạng nhóm thiết bị bảo hộ</span>
+                </span>
+                <span class="gh-hero-trust-item">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f69364" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <polyline points="20 6 9 17 4 12" />
+                    </svg>
+                    <span>Tư vấn theo nhu cầu thực tế</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="gh-hero-visual">
+            <div class="gh-hero-card">
+                <div class="gh-hero-showcase-grid">
+                    @foreach (var item in ShowcaseProducts.Take(4))
+                    {
+                        <a href="san-pham/@item.Id" class="gh-hero-thumb" title="@item.Name">
+                            <img src="@item.PrimaryImageUrl"
+                                 alt="@item.Name"
+                                 width="220"
+                                 height="220"
+                                 decoding="async"
+                                 onerror="this.onerror=null;this.src='@BrandInfo.PlaceholderImage';" />
+                        </a>
+                    }
+                </div>
+
+                <div class="gh-hero-stat-badge">
+                    <div>
+                        <div class="gh-hero-stat-num">@(ProductCount > 0 ? $"{ProductCount} mẫu" : "Catalog PPE")</div>
+                        <div class="gh-hero-stat-label">@(CategoryCount > 0 ? $"Trong {CategoryCount} nhóm sản phẩm bảo hộ" : "Đang cập nhật danh mục")</div>
+                    </div>
+                    <a href="san-pham" class="gh-btn gh-btn-navy" style="min-height: 2.35rem; padding: 0.4rem 1rem; font-size: 0.75rem;">
+                        Xem tất cả →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter]
+    public int ProductCount { get; set; }
+
+    [Parameter]
+    public int CategoryCount { get; set; }
+
+    [Parameter]
+    public IReadOnlyList<ProductItem> ShowcaseProducts { get; set; } = [];
+}

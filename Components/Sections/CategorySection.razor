@@ -1,0 +1,64 @@
+@using PPE.LandingPage.Models
+
+<section id="danh-muc" class="gh-section gh-section-cream">
+    <div class="gh-container">
+        <div class="gh-section-header">
+            <div>
+                <p class="gh-kicker">DANH MỤC SẢN PHẨM</p>
+                <h2 class="gh-section-title">Nhóm sản phẩm bảo hộ tại @BrandInfo.ShortName.</h2>
+            </div>
+            <p class="mb-0 small" style="color: var(--gh-text-muted); max-width: 24rem;">
+                Phân loại trực tiếp từ catalog @BrandInfo.ShortName, giúp bạn tìm nhanh đúng nhóm thiết bị hoặc trang phục cần trang bị.
+            </p>
+        </div>
+
+        @if (Categories.Count > 0)
+        {
+            var visibleCategories = _showAll ? Categories : Categories.Take(InitialCount).ToList();
+
+            <div class="gh-category-grid">
+                @foreach (var category in visibleCategories)
+                {
+                    <a href="san-pham?category=@Uri.EscapeDataString(category.Id)" class="gh-category-card">
+                        <span class="gh-category-thumb">
+                            <img src="@category.CoverImageUrl"
+                                 alt="@category.Name"
+                                 width="320"
+                                 height="256"
+                                 loading="lazy"
+                                 decoding="async"
+                                 onerror="this.onerror=null;this.src='@BrandInfo.PlaceholderImage';" />
+                            <span class="gh-category-count">@category.ProductCount mẫu</span>
+                        </span>
+                        <span class="gh-category-body">
+                            <span class="gh-category-name">@category.Name</span>
+                            <span class="gh-category-link">
+                                <span>Xem sản phẩm</span>
+                                <span aria-hidden="true">↗</span>
+                            </span>
+                        </span>
+                    </a>
+                }
+            </div>
+
+            @if (Categories.Count > InitialCount)
+            {
+                <div class="text-center mt-4 pt-2">
+                    <button type="button" class="gh-btn gh-btn-outline" @onclick="ToggleShowAll">
+                        @(_showAll ? "Thu gọn danh mục" : $"Xem thêm {Categories.Count - InitialCount} danh mục khác")
+                    </button>
+                </div>
+            }
+        }
+    </div>
+</section>
+
+@code {
+    private const int InitialCount = 8;
+    private bool _showAll;
+
+    [Parameter]
+    public IReadOnlyList<ProductCategory> Categories { get; set; } = [];
+
+    private void ToggleShowAll() => _showAll = !_showAll;
+}

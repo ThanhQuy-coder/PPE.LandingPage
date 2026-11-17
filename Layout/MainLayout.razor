@@ -1,0 +1,29 @@
+﻿@inherits LayoutComponentBase
+@inject ProductCatalogService CatalogService
+
+<div id="top" class="d-flex flex-column min-vh-100">
+    <SiteHeader />
+
+    <main class="flex-grow-1" tabindex="-1">
+        @Body
+    </main>
+
+    <SiteFooter CategoryCount="@_categoryCount" />
+</div>
+
+@code {
+    private int _categoryCount;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var catalog = await CatalogService.GetCatalogAsync();
+            _categoryCount = catalog.Categories.Count;
+        }
+        catch
+        {
+            _categoryCount = 0;
+        }
+    }
+}

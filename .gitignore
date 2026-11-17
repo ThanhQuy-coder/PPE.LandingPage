@@ -1,0 +1,82 @@
+## .NET / Visual Studio / Blazor .gitignore
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+DebugPublic/
+Release/
+Releases/
+x64/
+x86/
+build/
+bld/
+_build/
+_site/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+.vs/
+*.v12.suo
+*.v12.user
+
+# Visual Studio Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+_ReSharper*
+.JustCode
+_TeamCity*
+*.dotCover
+_NCrunch_*
+
+# Publish output
+publish/
+*.pubxml.user
+AppPackages/
+PublishScripts/
+artifacts/
+
+# Packages & NuGet
+*.nupkg
+*.snupkg
+[Pp]ackages/
+!**/[Pp]ackages/build/
+
+# Entity Framework Core (nếu dùng SQLite/Local DB)
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+# Test results
+TestResult*
+BuildLog*
+*.VisualState.xml
+TestResult.xml
+
+# Logs, dumps, diagnostic files
+*.log
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Node & JavaScript (nếu có dùng JS isolation hoặc npm)
+node_modules/
+bower_components/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V15N
+.Trashes
+ehthumbs.db
+Thumbs.db

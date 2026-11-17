@@ -1,0 +1,332 @@
+@page "/san-pham"
+@inject ProductCatalogService CatalogService
+@inject NavigationManager Navigation
+
+<PageTitle>Sản phẩm bảo hộ lao động – @BrandInfo.ShortName</PageTitle>
+
+<section class="gh-section gh-section-cream" style="padding-top: 2.5rem;">
+    <div class="gh-container">
+        <nav class="gh-breadcrumb" aria-label="Đường dẫn">
+            <a href="">Trang chủ</a>
+            <span aria-hidden="true">/</span>
+            <span class="fw-semibold" style="color: var(--gh-navy);">Sản phẩm</span>
+            @if (!string.IsNullOrWhiteSpace(SelectedCategoryName))
+            {
+                <span aria-hidden="true">/</span>
+                <span class="fw-semibold" style="color: var(--gh-accent);">@SelectedCategoryName</span>
+            }
+        </nav>
+
+        <div class="gh-section-header mb-4">
+            <div>
+                <p class="gh-kicker">DANH MỤC ĐẦY ĐỦ</p>
+                <h1 class="gh-section-title">Sản phẩm bảo hộ lao động @BrandInfo.ShortName</h1>
+            </div>
+            <p class="mb-0 small" style="color: var(--gh-text-muted); max-width: 22rem;">
+                Tìm kiếm theo tên sản phẩm hoặc lọc theo từng nhóm thiết bị bảo hộ.
+            </p>
+        </div>
+
+        @if (_isLoading)
+        {
+            <div class="gh-state-box" role="status" aria-live="polite">
+                <p class="fw-bold mb-1" style="color: var(--gh-navy);">Đang tải danh sách sản phẩm...</p>
+                <p class="small mb-0" style="color: var(--gh-text-muted);">Vui lòng đợi trong giây lát.</p>
+            </div>
+        }
+        else if (!string.IsNullOrWhiteSpace(_errorMessage))
+        {
+            <div class="gh-state-box" role="alert">
+                <p class="fw-bold mb-1" style="color: var(--gh-navy);">Không thể tải danh sách sản phẩm</p>
+                <p class="small mb-3" style="color: var(--gh-text-muted);">@_errorMessage</p>
+                <button type="button" class="gh-btn gh-btn-primary" @onclick="RetryLoadAsync">Thử lại</button>
+            </div>
+        }
+        else
+        {
+            <div class="gh-filter-bar mb-4">
+                <div class="row g-3 align-items-end">
+                    <div class="col-md-6">
+                        <label for="gh-product-search" class="form-label small fw-bold mb-1">Tìm kiếm sản phẩm</label>
+                        <div class="position-relative">
+                            <input id="gh-product-search"
+                                   type="search"
+                                   class="gh-input"
+                                   placeholder="Nhập tên sản phẩm (ví dụ: giày bảo hộ, mũ, găng tay...)"
+                                   value="@_searchTerm"
+                                   @oninput="OnSearchInput" />
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="gh-category-select" class="form-label small fw-bold mb-1">Lọc theo danh mục</label>
+                        <select id="gh-category-select"
+                                class="gh-input"
+                                value="@_selectedCategory"
+                                @onchange="OnCategorySelectChanged">
+                            <option value="all">Tất cả danh mục (@_allProducts.Count)</option>
+                            @foreach (var cat in _categories)
+                            {
+                                <option value="@cat.Id">@cat.Name (@cat.ProductCount)</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="col-md-2 d-flex align-items-end">
+                        <button type="button"
+                                class="gh-btn gh-btn-outline w-100"
+                                disabled="@(!HasActiveFilters)"
+                                @onclick="ResetFilters">
+                            Đặt lại
+                        </button>
+                    </div>
+                </div>
+
+                <div class="gh-chip-row mt-3 pt-2 border-top" style="border-color: var(--gh-border) !important;" aria-label="Chọn nhanh danh mục">
+                    <button type="button"
+                            class="gh-chip @(_selectedCategory == "all" ? "active" : "")"
+                            aria-pressed="@(_selectedCategory == "all")"
+                            @onclick='() => SelectCategory("all")'>
+                        Tất cả (@_allProducts.Count)
+                    </button>
+                    @foreach (var cat in _categories)
+                    {
+                        var isSelected = string.Equals(_selectedCategory, cat.Id, StringComparison.OrdinalIgnoreCase);
+                        <button type="button"
+                                class="gh-chip @(isSelected ? "active" : "")"
+                                aria-pressed="@isSelected"
+                                @onclick="() => SelectCategory(cat.Id)">
+                            @cat.Name (@cat.ProductCount)
+                        </button>
+                    }
+                </div>
+            </div>
+
+            <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3 small" style="color: var(--gh-text-muted);">
+                <span>
+                    Hiển thị <strong style="color: var(--gh-navy);">@_filteredProducts.Count</strong> sản phẩm
+                    @if (!string.IsNullOrWhiteSpace(SelectedCategoryName))
+                    {
+                        <span>trong nhóm <strong style="color: var(--gh-navy);">@SelectedCategoryName</strong></span>
+                    }
+                    @if (!string.IsNullOrWhiteSpace(_searchTerm))
+                    {
+                        <span>cho từ khóa "<strong style="color: var(--gh-navy);">@_searchTerm</strong>"</span>
+                    }
+                </span>
+
+                @if (TotalPages > 1)
+                {
+                    <span>Trang @_currentPage / @TotalPages</span>
+                }
+            </div>
+
+            @if (_filteredProducts.Count == 0)
+            {
+                <div class="gh-state-box">
+                    <p class="fw-bold mb-1" style="color: var(--gh-navy);">Không tìm thấy sản phẩm phù hợp</p>
+                    <p class="small mb-3" style="color: var(--gh-text-muted);">
+                        Thử thay đổi từ khóa tìm kiếm hoặc chọn danh mục khác.
+                    </p>
+                    <button type="button" class="gh-btn gh-btn-navy" @onclick="ResetFilters">
+                        Xem tất cả sản phẩm
+                    </button>
+                </div>
+            }
+            else
+            {
+                <div class="gh-product-grid">
+                    @foreach (var product in PagedProducts)
+                    {
+                        <ProductCard @key="product.Id" Product="@product" />
+                    }
+                </div>
+
+                @if (TotalPages > 1)
+                {
+                    <nav class="gh-pagination" aria-label="Phân trang sản phẩm">
+                        <button type="button"
+                                class="gh-page-btn"
+                                disabled="@(_currentPage <= 1)"
+                                @onclick="() => GoToPage(_currentPage - 1)">
+                            ← Trước
+                        </button>
+
+                        @for (var p = 1; p <= TotalPages; p++)
+                        {
+                            var pageNumber = p;
+                            if (ShouldRenderPageButton(pageNumber))
+                            {
+                                <button type="button"
+                                        class="gh-page-btn @(pageNumber == _currentPage ? "active" : "")"
+                                        aria-current="@(pageNumber == _currentPage ? "page" : null)"
+                                        @onclick="() => GoToPage(pageNumber)">
+                                    @pageNumber
+                                </button>
+                            }
+                            else if (IsEllipsisPosition(pageNumber))
+                            {
+                                <span class="px-1 small" style="color: var(--gh-text-muted);">…</span>
+                            }
+                        }
+
+                        <button type="button"
+                                class="gh-page-btn"
+                                disabled="@(_currentPage >= TotalPages)"
+                                @onclick="() => GoToPage(_currentPage + 1)">
+                            Sau →
+                        </button>
+                    </nav>
+                }
+            }
+        }
+    </div>
+</section>
+
+@code {
+    private const int PageSize = 16;
+
+    [SupplyParameterFromQuery(Name = "category")]
+    public string? CategoryQuery { get; set; }
+
+    [SupplyParameterFromQuery(Name = "q")]
+    public string? SearchQuery { get; set; }
+
+    private bool _isLoading = true;
+    private string? _errorMessage;
+    private IReadOnlyList<ProductItem> _allProducts = [];
+    private IReadOnlyList<ProductCategory> _categories = [];
+    private IReadOnlyList<ProductItem> _filteredProducts = [];
+
+    private string _selectedCategory = "all";
+    private string _searchTerm = string.Empty;
+    private int _currentPage = 1;
+
+    private bool HasActiveFilters =>
+        !string.Equals(_selectedCategory, "all", StringComparison.OrdinalIgnoreCase)
+        || !string.IsNullOrWhiteSpace(_searchTerm);
+
+    private string? SelectedCategoryName =>
+        string.Equals(_selectedCategory, "all", StringComparison.OrdinalIgnoreCase)
+            ? null
+            : _categories.FirstOrDefault(c => string.Equals(c.Id, _selectedCategory, StringComparison.OrdinalIgnoreCase))?.Name;
+
+    private int TotalPages =>
+        _filteredProducts.Count == 0 ? 1 : (int)Math.Ceiling(_filteredProducts.Count / (double)PageSize);
+
+    private IEnumerable<ProductItem> PagedProducts =>
+        _filteredProducts.Skip((_currentPage - 1) * PageSize).Take(PageSize);
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadDataAsync(forceReload: false);
+    }
+
+    protected override void OnParametersSet()
+    {
+        var nextCategory = string.IsNullOrWhiteSpace(CategoryQuery) ? "all" : CategoryQuery.Trim();
+        var nextSearch = SearchQuery?.Trim() ?? string.Empty;
+
+        if (!string.Equals(_selectedCategory, nextCategory, StringComparison.OrdinalIgnoreCase)
+            || !string.Equals(_searchTerm, nextSearch, StringComparison.Ordinal))
+        {
+            _selectedCategory = nextCategory;
+            _searchTerm = nextSearch;
+            _currentPage = 1;
+            ApplyFilter();
+        }
+    }
+
+    private async Task RetryLoadAsync() => await LoadDataAsync(forceReload: true);
+
+    private async Task LoadDataAsync(bool forceReload)
+    {
+        _isLoading = true;
+        _errorMessage = null;
+
+        try
+        {
+            var catalog = await CatalogService.GetCatalogAsync(forceReload);
+            _allProducts = catalog.Products;
+            _categories = catalog.Categories;
+            ApplyFilter();
+        }
+        catch (Exception)
+        {
+            _errorMessage = "Không thể đọc dữ liệu sản phẩm. Vui lòng thử lại.";
+        }
+        finally
+        {
+            _isLoading = false;
+        }
+    }
+
+    private void OnSearchInput(ChangeEventArgs args)
+    {
+        _searchTerm = args.Value?.ToString() ?? string.Empty;
+        _currentPage = 1;
+        ApplyFilter();
+    }
+
+    private void OnCategorySelectChanged(ChangeEventArgs args)
+    {
+        var categoryId = args.Value?.ToString() ?? "all";
+        SelectCategory(categoryId);
+    }
+
+    private void SelectCategory(string categoryId)
+    {
+        _selectedCategory = string.IsNullOrWhiteSpace(categoryId) ? "all" : categoryId;
+        _currentPage = 1;
+        ApplyFilter();
+        UpdateUrl();
+    }
+
+    private void ResetFilters()
+    {
+        _selectedCategory = "all";
+        _searchTerm = string.Empty;
+        _currentPage = 1;
+        ApplyFilter();
+        UpdateUrl();
+    }
+
+    private void ApplyFilter()
+    {
+        _filteredProducts = ProductCatalogService.FilterProducts(_allProducts, _searchTerm, _selectedCategory);
+        if (_currentPage > TotalPages)
+        {
+            _currentPage = 1;
+        }
+    }
+
+    private void GoToPage(int page)
+    {
+        _currentPage = Math.Clamp(page, 1, TotalPages);
+    }
+
+    private void UpdateUrl()
+    {
+        var queryParts = new List<string>();
+        if (!string.Equals(_selectedCategory, "all", StringComparison.OrdinalIgnoreCase))
+        {
+            queryParts.Add($"category={Uri.EscapeDataString(_selectedCategory)}");
+        }
+        if (!string.IsNullOrWhiteSpace(_searchTerm))
+        {
+            queryParts.Add($"q={Uri.EscapeDataString(_searchTerm)}");
+        }
+
+        var target = queryParts.Count > 0 ? $"san-pham?{string.Join("&", queryParts)}" : "san-pham";
+        Navigation.NavigateTo(target, replace: true);
+    }
+
+    private bool ShouldRenderPageButton(int page) =>
+        page == 1
+        || page == TotalPages
+        || Math.Abs(page - _currentPage) <= 1;
+
+    private bool IsEllipsisPosition(int page) =>
+        (page == 2 && _currentPage > 3)
+        || (page == TotalPages - 1 && _currentPage < TotalPages - 2);
+}

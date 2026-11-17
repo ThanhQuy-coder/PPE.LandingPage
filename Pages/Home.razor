@@ -1,0 +1,106 @@
+﻿@page "/"
+@inject ProductCatalogService CatalogService
+
+<PageTitle>Gia Hoàng – Bảo hộ lao động &amp; Đồng phục doanh nghiệp</PageTitle>
+
+<HeroSection ProductCount="@_totalProducts"
+             CategoryCount="@_categories.Count"
+             ShowcaseProducts="@_showcaseProducts" />
+
+@if (_isLoading)
+{
+    <section class="gh-section gh-section-white">
+        <div class="gh-container">
+            <div class="gh-state-box" role="status" aria-live="polite">
+                <p class="fw-bold mb-1" style="color: var(--gh-navy);">Đang tải danh mục sản phẩm...</p>
+                <p class="small mb-0" style="color: var(--gh-text-muted);">Vui lòng đợi trong giây lát.</p>
+            </div>
+        </div>
+    </section>
+}
+else if (!string.IsNullOrWhiteSpace(_errorMessage))
+{
+    <section class="gh-section gh-section-white">
+        <div class="gh-container">
+            <div class="gh-state-box" role="alert">
+                <p class="fw-bold mb-1" style="color: var(--gh-navy);">Không thể tải dữ liệu sản phẩm</p>
+                <p class="small mb-3" style="color: var(--gh-text-muted);">@_errorMessage</p>
+                <button type="button" class="gh-btn gh-btn-primary" @onclick="LoadCatalogAsync">Thử lại</button>
+            </div>
+        </div>
+    </section>
+}
+
+<AboutSection ImageUrl="@_aboutImageUrl" ImageAlt="@_aboutImageAlt" />
+
+<CategorySection Categories="@_categories" />
+
+<FeaturedProductsSection FeaturedProducts="@_featuredProducts" TotalProductCount="@_totalProducts" />
+
+<section class="gh-cta-banner">
+    <div class="gh-container gh-cta-inner">
+        <div>
+            <p class="mb-1 small fw-bold text-uppercase" style="letter-spacing: 0.14em; color: rgba(255,255,255,0.85);">
+                CẦN TƯ VẤN NHANH?
+            </p>
+            <h2 class="mb-0">Liên hệ @BrandInfo.ShortName để chọn giải pháp bảo hộ phù hợp.</h2>
+        </div>
+        <div class="d-flex flex-wrap gap-3">
+            <a href="@BrandInfo.HotlineHref" class="gh-btn gh-btn-white">
+                Gọi @BrandInfo.HotlineDisplay
+            </a>
+            <a href="san-pham" class="gh-btn gh-btn-outline-light">
+                Xem toàn bộ sản phẩm →
+            </a>
+        </div>
+    </div>
+</section>
+
+<ContactSection />
+
+@code {
+    private bool _isLoading = true;
+    private string? _errorMessage;
+    private int _totalProducts;
+    private IReadOnlyList<ProductCategory> _categories = [];
+    private IReadOnlyList<ProductItem> _featuredProducts = [];
+    private IReadOnlyList<ProductItem> _showcaseProducts = [];
+    private string _aboutImageUrl = BrandInfo.PlaceholderImage;
+    private string _aboutImageAlt = "Sản phẩm bảo hộ lao động Gia Hoàng";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCatalogAsync();
+    }
+
+    private async Task LoadCatalogAsync()
+    {
+        _isLoading = true;
+        _errorMessage = null;
+
+        try
+        {
+            var catalog = await CatalogService.GetCatalogAsync();
+            _totalProducts = catalog.Products.Count;
+            _categories = catalog.Categories;
+            _featuredProducts = ProductCatalogService.SelectFeaturedProducts(catalog.Products, 8);
+            _showcaseProducts = _featuredProducts.Take(4).ToList();
+
+            var introProduct = catalog.Products.FirstOrDefault(p => p.Id == "product-0003")
+                               ?? catalog.Products.FirstOrDefault();
+            if (introProduct is not null)
+            {
+                _aboutImageUrl = introProduct.PrimaryImageUrl;
+                _aboutImageAlt = introProduct.Name;
+            }
+        }
+        catch (Exception)
+        {
+            _errorMessage = "Đã xảy ra sự cố khi đọc tệp dữ liệu sản phẩm. Vui lòng thử tải lại.";
+        }
+        finally
+        {
+            _isLoading = false;
+        }
+    }
+}
